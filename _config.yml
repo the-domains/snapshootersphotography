@@ -1,7 +1,7 @@
 name: SnapShootersPhotography
 favicon: null
-layout_spectrum: 0.50113
-typography_spectrum: 0.9090271617751569
+layout_spectrum: 0.99729
+typography_spectrum: 0.70732
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8890198261942714
+    - '#000000'
+    - '#727272'
+    - '#dddddd'
+    - '#afafaf'
+    - '#840000'
+  brandStrength: 1
   lightness: 0.056538229109719396
   saturation: 0.625
   rhythmicContrast: 0.814787924522534
