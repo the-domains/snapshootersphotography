@@ -1,6 +1,6 @@
 name: SnapShootersPhotography
 favicon: null
-layout_spectrum: 0.4740346276666969
+layout_spectrum: 0.50113
 typography_spectrum: 0.9090271617751569
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.8890198261942714
   lightness: 0.056538229109719396
-  saturation: 0.5492500436957926
+  saturation: 0.625
   rhythmicContrast: 0.814787924522534
 purpose: []
